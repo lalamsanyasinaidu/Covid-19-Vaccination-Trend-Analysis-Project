@@ -8,6 +8,8 @@ Line Plots: Trend analysis of active cases in major states.
 Pie Charts: Gender distribution of vaccinated individuals.
 Dot Plots: Date-wise active cases analysis.
 Comprehensive Data Analysis: Exploration of various facets of the Covid-19 vaccination drive in India.
+
+
 **Libraries Used**
 Pandas: Data manipulation and analysis.
 Seaborn: Statistical data visualization.
